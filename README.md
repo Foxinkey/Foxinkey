@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Foxinkey
-- 👀 I’m interested in security 
+- 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning internet technology 
 
 <!---
